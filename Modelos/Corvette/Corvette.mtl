@@ -1,0 +1,60 @@
+# Exported from Wings 3D 1.2
+newmtl Material
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.8 0.8 0.8
+Ka 0.2 0.2 0.2
+Ks 0.0 0.0 0.0
+Ke 0.0 0.0 0.0
+map_Kd LAMBDA2.png
+
+newmtl Material1
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.8 0.8 0.8
+Ka 0.2 0.2 0.2
+Ks 0.0 0.0 0.0
+Ke 0.0 0.0 0.0
+map_Kd LAMBDA0.png
+
+newmtl Material2
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.8 0.8 0.8
+Ka 0.2 0.2 0.2
+Ks 0.0 0.0 0.0
+Ke 0.0 0.0 0.0
+map_Kd LAMBDA1.png
+
+newmtl Material3
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.8 0.8 0.8
+Ka 0.2 0.2 0.2
+Ks 0.0 0.0 0.0
+Ke 0.0 0.0 0.0
+map_Kd LAMBDA4.png
+
+newmtl Material4
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.8 0.8 0.8
+Ka 0.2 0.2 0.2
+Ks 0.0 0.0 0.0
+Ke 0.0 0.0 0.0
+map_Kd LAMBDA3.png
+
+newmtl default
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+

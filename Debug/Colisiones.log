@@ -1,0 +1,50 @@
+﻿  main.cpp
+D:\Users\carro\Desktop\Proyectos_DIMRV\SDL_Prácticas\Colisiones\Colisiones\Colisiones\main.cpp(112,44): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+D:\Users\carro\Desktop\Proyectos_DIMRV\SDL_Prácticas\Colisiones\Colisiones\Colisiones\main.cpp(113,44): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+D:\Users\carro\Desktop\Proyectos_DIMRV\SDL_Prácticas\Colisiones\Colisiones\Colisiones\main.cpp(114,46): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+D:\Users\carro\Desktop\Proyectos_DIMRV\SDL_Prácticas\Colisiones\Colisiones\Colisiones\main.cpp(115,26): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+D:\Users\carro\Desktop\Proyectos_DIMRV\SDL_Prácticas\Colisiones\Colisiones\Colisiones\main.cpp(117,47): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+D:\Users\carro\Desktop\Proyectos_DIMRV\SDL_Prácticas\Colisiones\Colisiones\Colisiones\main.cpp(118,45): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+D:\Users\carro\Desktop\Proyectos_DIMRV\SDL_Prácticas\Colisiones\Colisiones\Colisiones\main.cpp(119,49): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+D:\Users\carro\Desktop\Proyectos_DIMRV\SDL_Prácticas\Colisiones\Colisiones\Colisiones\main.cpp(120,27): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+D:\Users\carro\Desktop\Proyectos_DIMRV\SDL_Prácticas\Colisiones\Colisiones\Colisiones\main.cpp(122,46): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+D:\Users\carro\Desktop\Proyectos_DIMRV\SDL_Prácticas\Colisiones\Colisiones\Colisiones\main.cpp(123,46): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+D:\Users\carro\Desktop\Proyectos_DIMRV\SDL_Prácticas\Colisiones\Colisiones\Colisiones\main.cpp(124,49): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+D:\Users\carro\Desktop\Proyectos_DIMRV\SDL_Prácticas\Colisiones\Colisiones\Colisiones\main.cpp(131,16): warning C4244: 'return': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+D:\Users\carro\Desktop\Proyectos_DIMRV\SDL_Prácticas\Colisiones\Colisiones\Colisiones\main.cpp(137,16): warning C4244: 'return': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+D:\Users\carro\Desktop\Proyectos_DIMRV\SDL_Prácticas\Colisiones\Colisiones\Colisiones\main.cpp(185,15): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+D:\Users\carro\Desktop\Proyectos_DIMRV\SDL_Prácticas\Colisiones\Colisiones\Colisiones\main.cpp(187,15): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+D:\Users\carro\Desktop\Proyectos_DIMRV\SDL_Prácticas\Colisiones\Colisiones\Colisiones\main.cpp(194,15): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+D:\Users\carro\Desktop\Proyectos_DIMRV\SDL_Prácticas\Colisiones\Colisiones\Colisiones\main.cpp(196,15): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+D:\Users\carro\Desktop\Proyectos_DIMRV\SDL_Prácticas\Colisiones\Colisiones\Colisiones\main.cpp(203,15): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+D:\Users\carro\Desktop\Proyectos_DIMRV\SDL_Prácticas\Colisiones\Colisiones\Colisiones\main.cpp(205,15): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+D:\Users\carro\Desktop\Proyectos_DIMRV\SDL_Prácticas\Colisiones\Colisiones\Colisiones\main.cpp(437,30): warning C4244: 'argumento': conversión de 'GLdouble' a 'GLfloat'; posible pérdida de datos
+D:\Users\carro\Desktop\Proyectos_DIMRV\SDL_Prácticas\Colisiones\Colisiones\Colisiones\main.cpp(437,24): warning C4244: 'argumento': conversión de 'GLdouble' a 'GLfloat'; posible pérdida de datos
+D:\Users\carro\Desktop\Proyectos_DIMRV\SDL_Prácticas\Colisiones\Colisiones\Colisiones\main.cpp(437,18): warning C4244: 'argumento': conversión de 'GLdouble' a 'GLfloat'; posible pérdida de datos
+D:\Users\carro\Desktop\Proyectos_DIMRV\SDL_Prácticas\Colisiones\Colisiones\Colisiones\main.cpp(438,37): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+D:\Users\carro\Desktop\Proyectos_DIMRV\SDL_Prácticas\Colisiones\Colisiones\Colisiones\main.cpp(481,24): warning C4244: 'argumento': conversión de 'GLfloat' a 'GLint'; posible pérdida de datos
+D:\Users\carro\Desktop\Proyectos_DIMRV\SDL_Prácticas\Colisiones\Colisiones\Colisiones\main.cpp(481,18): warning C4244: 'argumento': conversión de 'GLfloat' a 'GLint'; posible pérdida de datos
+D:\Users\carro\Desktop\Proyectos_DIMRV\SDL_Prácticas\Colisiones\Colisiones\Colisiones\main.cpp(617,45): warning C4305: '-=': truncamiento de 'double' a 'GLfloat'
+D:\Users\carro\Desktop\Proyectos_DIMRV\SDL_Prácticas\Colisiones\Colisiones\Colisiones\main.cpp(619,45): warning C4305: '+=': truncamiento de 'double' a 'GLfloat'
+D:\Users\carro\Desktop\Proyectos_DIMRV\SDL_Prácticas\Colisiones\Colisiones\Colisiones\main.cpp(628,44): warning C4305: '-=': truncamiento de 'double' a 'GLfloat'
+D:\Users\carro\Desktop\Proyectos_DIMRV\SDL_Prácticas\Colisiones\Colisiones\Colisiones\main.cpp(630,44): warning C4305: '+=': truncamiento de 'double' a 'GLfloat'
+D:\Users\carro\Desktop\Proyectos_DIMRV\SDL_Prácticas\Colisiones\Colisiones\Colisiones\main.cpp(649,66): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Users\carro\Desktop\Proyectos_DIMRV\SDL_Prácticas\Colisiones\Colisiones\Colisiones\main.cpp(661,69): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Users\carro\Desktop\Proyectos_DIMRV\SDL_Prácticas\Colisiones\Colisiones\Colisiones\main.cpp(670,73): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Users\carro\Desktop\Proyectos_DIMRV\SDL_Prácticas\Colisiones\Colisiones\Colisiones\main.cpp(674,40): warning C4805: '==': combinación no segura del tipo 'GLboolean' y el tipo 'bool' en la operación
+D:\Users\carro\Desktop\Proyectos_DIMRV\SDL_Prácticas\Colisiones\Colisiones\Colisiones\main.cpp(700,63): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Users\carro\Desktop\Proyectos_DIMRV\SDL_Prácticas\Colisiones\Colisiones\Colisiones\main.cpp(712,66): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Users\carro\Desktop\Proyectos_DIMRV\SDL_Prácticas\Colisiones\Colisiones\Colisiones\main.cpp(721,73): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Users\carro\Desktop\Proyectos_DIMRV\SDL_Prácticas\Colisiones\Colisiones\Colisiones\main.cpp(724,40): warning C4805: '==': combinación no segura del tipo 'GLboolean' y el tipo 'bool' en la operación
+D:\Users\carro\Desktop\Proyectos_DIMRV\SDL_Prácticas\Colisiones\Colisiones\Colisiones\main.cpp(751,67): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Users\carro\Desktop\Proyectos_DIMRV\SDL_Prácticas\Colisiones\Colisiones\Colisiones\main.cpp(753,65): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Users\carro\Desktop\Proyectos_DIMRV\SDL_Prácticas\Colisiones\Colisiones\Colisiones\main.cpp(765,64): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Users\carro\Desktop\Proyectos_DIMRV\SDL_Prácticas\Colisiones\Colisiones\Colisiones\main.cpp(774,73): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Users\carro\Desktop\Proyectos_DIMRV\SDL_Prácticas\Colisiones\Colisiones\Colisiones\main.cpp(777,40): warning C4805: '==': combinación no segura del tipo 'GLboolean' y el tipo 'bool' en la operación
+D:\Users\carro\Desktop\Proyectos_DIMRV\SDL_Prácticas\Colisiones\Colisiones\Colisiones\main.cpp(804,70): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Users\carro\Desktop\Proyectos_DIMRV\SDL_Prácticas\Colisiones\Colisiones\Colisiones\main.cpp(806,68): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Users\carro\Desktop\Proyectos_DIMRV\SDL_Prácticas\Colisiones\Colisiones\Colisiones\main.cpp(821,67): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Users\carro\Desktop\Proyectos_DIMRV\SDL_Prácticas\Colisiones\Colisiones\Colisiones\main.cpp(830,73): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Users\carro\Desktop\Proyectos_DIMRV\SDL_Prácticas\Colisiones\Colisiones\Colisiones\main.cpp(834,40): warning C4805: '==': combinación no segura del tipo 'GLboolean' y el tipo 'bool' en la operación
+D:\Users\carro\Desktop\Proyectos_DIMRV\SDL_Prácticas\Colisiones\Colisiones\Colisiones\main.cpp(149): warning C4715: 'puntoEnCaja': no todas las rutas de acceso de control devuelven un valor
+  Colisiones.vcxproj -> D:\Users\carro\Desktop\Proyectos_DIMRV\SDL_Prácticas\Colisiones\Colisiones\Debug\Colisiones.exe
